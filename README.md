@@ -4,7 +4,7 @@ Book Management System:
 
 
 Overview: 
-Here’s a concise overview of the provided Python code for the book management system:
+Here’s a concise overview of the Python code for the book management system:
 .The code creates a menu-driven interface for managing a list of books.
 .Users can add, list, mark as read, find, update, and delete books.
 .Book data is stored in dictionaries with keys for name, author, and read status.
